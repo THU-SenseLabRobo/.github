@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/SenseLabRobo/profile/main/hero-robot.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(102, 0, 153, 0.3); border: 2px solid #e1e4e8;" alt="SenseLab Robot Prototype" />
+  <img src="./fig/hero-robot.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(102, 0, 153, 0.3); border: 2px solid #e1e4e8;" alt="SenseLab Robot Prototype" />
 
   <br/><br/>
 
