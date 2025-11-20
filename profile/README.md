@@ -39,7 +39,7 @@ At **SenseLabRobo**, we define the frontier of **Embodied AI**. We don't just bu
     <td width="33%" align="center" style="border: none; padding: 10px;">
       <h1>👁️</h1>
       <h3>Multi-Modal Perception</h3>
-      <p>Fusing LiDAR, Camera, Radar, and IMU data for robust state estimation and semantic mapping in unstructured environments.</p>
+      <p>Fusing LiDAR, Camera, and IMU data for robust state estimation and semantic mapping in unstructured environments.</p>
     </td>
     <td width="33%" align="center" style="border: none; padding: 10px;">
       <h1>🦵</h1>
