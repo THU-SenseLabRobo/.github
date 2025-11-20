@@ -70,7 +70,7 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       <b>Principal Investigator / Associate Professor</b><br>
       Department of Electronic Engineering, Tsinghua University<br>
       <br>
-      🧠 <b>Research Lead:</b> Embodied AI, Advanced Robotics Control<br>
+      🧠 <b>Research Lead:</b> Edge Embodied Intelligence, Flexible Wearable Device，Near-zero Power Chips，High Energy Efficiency Intelligence System<br>
       ✉️ <a href="qiaofei@tsinghua.edu.cn">Email Contact</a> | 🌐 <a href="https://web.ee.tsinghua.edu.cn/qiaofei/zh_CN/index.htm">Faculty Homepage</a>
     </td>
   </tr>
