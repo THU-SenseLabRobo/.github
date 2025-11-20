@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-  <img src="./img/hero-robot.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(102, 0, 153, 0.3); border: 2px solid #e1e4e8;" alt="SenseLab Robot Prototype" />
+  <img src="./fig/hero-robot.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(102, 0, 153, 0.3); border: 2px solid #e1e4e8;" alt="SenseLab Robot Prototype" />
 
   <br/><br/>
 
@@ -60,18 +60,18 @@ At **SenseLabRobo**, we define the frontier of **Embodied AI**. We don't just bu
 
 Driven by curiosity, united by code. We are a diverse group of researchers at Tsinghua.
 
-<table style="border: none; background-color: #f0f4f8; border-radius: 16px; padding: 20px; width: 95%; margin: auto; box-shadow: 0 5px 20px rgba(102, 0, 153, 0.15);">
+<table style="border: 1px solid var(--color-border-muted); background-color: var(--color-canvas-subtle); border-radius: 16px; padding: 20px; width: 95%; margin: auto; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);">
   <tr>
-    <td align="center" width="180px" style="border: none;">
-      <img src="./img/prof-pi.jpg" width="140px" height="140px" style="border-radius: 50%; border: 3px solid #660099; padding: 3px; box-shadow: 0 0 15px rgba(102, 0, 153, 0.4); object-fit: cover;"/>
+    <td align="center" width="200px" valign="top" style="border: none; padding-right: 20px;">
+      <img src="./fig/prof-pi.jpg" style="width: 100%; max-width: 180px; height: auto; border-radius: 16px; border: 3px solid #660099; padding: 3px; box-shadow: 0 0 15px rgba(102, 0, 153, 0.4); display: block;"/>
     </td>
-    <td valign="middle" style="border: none; padding-left: 20px;">
-      <h2 style="margin-bottom: 5px; color: #660099;">Prof. [Name] (导师姓名)</h2>
+    <td valign="top" style="border: none;">
+      <h2 style="margin-top: 0; margin-bottom: 5px;">Dr. Fei Qiao</h2>
       <b>Principal Investigator / Associate Professor</b><br>
-      Department of [Your Department], Tsinghua University<br>
+      Department of Electronic Engineering, Tsinghua University<br>
       <br>
       🧠 <b>Research Lead:</b> Embodied AI, Advanced Robotics Control<br>
-      ✉️ <a href="mailto:your.email@tsinghua.edu.cn">Email Contact</a> | 🌐 <a href="[#](https://web.ee.tsinghua.edu.cn/qiaofei/zh_CN/index.htm)">Faculty Homepage</a>
+      ✉️ <a href="qiaofei@tsinghua.edu.cn">Email Contact</a> | 🌐 <a href="https://web.ee.tsinghua.edu.cn/qiaofei/zh_CN/index.htm">Faculty Homepage</a>
     </td>
   </tr>
 </table>
