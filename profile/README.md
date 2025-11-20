@@ -128,13 +128,13 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       </div>
     </td>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./img/student-4.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <img src="./fig/student-4.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
       <br/>
-      <strong style="font-size: 1.1em;">[Student Name]</strong><br/>
+      <strong style="font-size: 1.1em;">Weihao Shan</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
-        Research Assistant<br/>
-        Dept. of [Name], Tsinghua Univ.<br/>
-        <span style="color: #660099; font-weight: bold;">Focus:</span> Hardware Design
+        Master Student<br/>
+        Department of E.E., Tsinghua University<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Robotic Chips Design
         <div style="margin-top: 12px; font-size: 1em;">
           <a href="mailto:student@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
           <span style="color: #ccc;">|</span>
