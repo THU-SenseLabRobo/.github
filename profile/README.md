@@ -147,33 +147,69 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
 
 ### Research Interns
 
+
 <table align="center" style="border: none; width: 100%; margin-top: 20px;">
   <tr>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/intern-1.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <img src="./fig/intern-4.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
       <br/>
       <strong style="font-size: 1.1em;">Mingkai Liu</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
-        Master Student<br/>
-        School of Software and Microelectronics, Peking University<br/>
-        <span style="color: #660099; font-weight: bold;">Focus:</span> [Topic]
+         Master Student<br/>
+         School of Software and Microelectronics, Peking University<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Perception & SLAM
         <div style="margin-top: 12px; font-size: 1em;">
-          <a href="mailto:intern@email.com" style="text-decoration: none; color: #660099;" title="Email">✉️ Email</a>
+          <a href="mailto:qian.zhang@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <span style="color: #ccc;">|</span>
+          <a href="https://your-homepage.com" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
         </div>
       </div>
     </td>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./img/intern-2.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <img src="./fig/studen-2.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
       <br/>
-      <strong style="font-size: 1.1em;">[Intern Name]</strong><br/>
+      <strong style="font-size: 1.1em;">Haohua Que (Collaborator)</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
-        Master Student Intern<br/>
-        From [University Name]<br/>
-        <span style="color: #660099; font-weight: bold;">Focus:</span> [Topic]
+        Ph.D. Student<br/>
+        College of Engineering, University of Georgia<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Robotic Control
+        <div style="margin-top: 12px; font-size: 1em;">
+          <a href="mailto:haohua.que@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <span style="color: #ccc;">|</span>
+          <a href="#" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
+        </div>
       </div>
     </td>
-    <td width="25%"></td>
-    <td width="25%"></td>
+    <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
+      <img src="./fig/studen-3.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <br/>
+      <strong style="font-size: 1.1em;">Haojia Gao</strong><br/>
+      <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
+        Master Student<br/>
+         Tsinghua SIGS, Tsinghua University<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Embodied Intelligence 
+        <div style="margin-top: 12px; font-size: 1em;">
+          <a href="mailto:intelligent@gaohaojia.top" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <span style="color: #ccc;">|</span>
+          <a href="https://gaohaojia.github.io/index.html" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
+        </div>
+      </div>
+    </td>
+    <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
+      <img src="./fig/studen-4.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <br/>
+      <strong style="font-size: 1.1em;">Weihao Shan</strong><br/>
+      <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
+        Master Student<br/>
+        Department of E.E., Tsinghua University<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Robotic Chips Design
+        <div style="margin-top: 12px; font-size: 1em;">
+          <a href="mailto:student@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <span style="color: #ccc;">|</span>
+          <a href="#" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
 
