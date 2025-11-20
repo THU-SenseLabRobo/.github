@@ -80,35 +80,70 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
 
 ### Core Members & Researchers
 
-<table align="center" style="border: none; width: 95%;">
+<table align="center" style="border: none; width: 100%; margin-top: 20px;">
   <tr>
-    <td align="center" width="25%" style="border: none; padding-bottom: 20px;">
-      <img src="./img/student-1.jpg" width="100px" height="100px" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(102, 0, 153, 0.2); object-fit: cover;"/><br/>
-      <b>[Student Name]</b><br>
-      <sub>Ph.D. Candidate</sub><br>
-      <sub>Focus: Perception</sub>
+    <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
+      <img src="./fig/student-1.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <br/>
+      <strong style="font-size: 1.1em;">Qian Zhang (Leader)</strong><br/>
+      <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
+        Ph.D. Candidate<br/>
+        Tsinghua SIGS, Tsinghua University<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Perception & SLAM
+        <div style="margin-top: 12px; font-size: 1em;">
+          <a href="mailto:qian.zhang@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <span style="color: #ccc;">|</span>
+          <a href="https://your-homepage.com" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
+        </div>
+      </div>
     </td>
-    <td align="center" width="25%" style="border: none; padding-bottom: 20px;">
-      <img src="./img/student-2.jpg" width="100px" height="100px" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(102, 0, 153, 0.2); object-fit: cover;"/><br/>
-      <b>[Student Name]</b><br>
-      <sub>Ph.D. Candidate</sub><br>
-      <sub>Focus: RL Control</sub>
+    <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
+      <img src="./fig/student-2.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <br/>
+      <strong style="font-size: 1.1em;">Haohua Que (Collaborator)</strong><br/>
+      <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
+        Ph.D. Student<br/>
+        College of Engineering, University of Georgia<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Robotic Control
+        <div style="margin-top: 12px; font-size: 1em;">
+          <a href="mailto:haohua.que@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <span style="color: #ccc;">|</span>
+          <a href="#" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
+        </div>
+      </div>
     </td>
-    <td align="center" width="25%" style="border: none; padding-bottom: 20px;">
-      <img src="./img/student-3.jpg" width="100px" height="100px" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(102, 0, 153, 0.2); object-fit: cover;"/><br/>
-      <b>[Student Name]</b><br>
-      <sub>Master Student</sub><br>
-      <sub>Focus: Sim2Real</sub>
+    <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
+      <img src="./img/student-3.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <br/>
+      <strong style="font-size: 1.1em;">[Student Name]</strong><br/>
+      <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
+        Master Student<br/>
+        Dept. of [Name], Tsinghua Univ.<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Sim2Real
+        <div style="margin-top: 12px; font-size: 1em;">
+          <a href="mailto:student@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <span style="color: #ccc;">|</span>
+          <a href="#" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
+        </div>
+      </div>
     </td>
-    <td align="center" width="25%" style="border: none; padding-bottom: 20px;">
-      <img src="./img/student-4.jpg" width="100px" height="100px" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(102, 0, 153, 0.2); object-fit: cover;"/><br/>
-      <b>[Student Name]</b><br>
-      <sub>Research Assistant</sub><br>
-      <sub>Focus: Hardware</sub>
+    <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
+      <img src="./img/student-4.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <br/>
+      <strong style="font-size: 1.1em;">[Student Name]</strong><br/>
+      <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
+        Research Assistant<br/>
+        Dept. of [Name], Tsinghua Univ.<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Hardware Design
+        <div style="margin-top: 12px; font-size: 1em;">
+          <a href="mailto:student@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <span style="color: #ccc;">|</span>
+          <a href="#" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
-
 <br/><hr/><br/>
 
 ## 🛠️ The SenseLab Tech Stack
