@@ -156,8 +156,8 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       <strong style="font-size: 1.1em;">Mingkai Liu</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
          Master Student<br/>
-         School of Software and Microelectronics, Peking University<br/>
-        <span style="color: #660099; font-weight: bold;">Focus:</span> Perception & SLAM
+         School of Software & Microelectronics, Peking University<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> 3D Reconstruction & Localization
         <div style="margin-top: 12px; font-size: 1em;">
           <a href="mailto:qian.zhang@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
           <span style="color: #ccc;">|</span>
