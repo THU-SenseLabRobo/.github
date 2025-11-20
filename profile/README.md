@@ -144,6 +144,40 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
     </td>
   </tr>
 </table>
+
+### Research Interns
+
+<table align="center" style="border: none; width: 100%; margin-top: 20px;">
+  <tr>
+    <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
+      <img src="./img/intern-1.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <br/>
+      <strong style="font-size: 1.1em;">[Intern Name]</strong><br/>
+      <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
+        Undergraduate Visiting Student<br/>
+        From [University Name]<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> [Topic]
+        <div style="margin-top: 12px; font-size: 1em;">
+          <a href="mailto:intern@email.com" style="text-decoration: none; color: #660099;" title="Email">✉️ Email</a>
+        </div>
+      </div>
+    </td>
+    <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
+      <img src="./img/intern-2.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <br/>
+      <strong style="font-size: 1.1em;">[Intern Name]</strong><br/>
+      <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
+        Master Student Intern<br/>
+        From [University Name]<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> [Topic]
+      </div>
+    </td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+</table>
+
+<br/>
 <br/><hr/><br/>
 
 ## 🛠️ The SenseLab Tech Stack
