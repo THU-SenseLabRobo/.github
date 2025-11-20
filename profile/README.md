@@ -83,7 +83,9 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
 <table align="center" style="border: none; width: 100%; margin-top: 20px;">
   <tr>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/student-1.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3);">
+          <img src="./fig/student-1.png" style="width: 200px; height: auto; display: block;" />
+      </div>
       <br/>
       <strong style="font-size: 1.1em;">Qian Zhang (Leader)</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
@@ -98,7 +100,9 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       </div>
     </td>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/student-2.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3);">
+          <img src="./fig/student-2.png" style="width: 200px; height: auto; display: block;" />
+      </div>
       <br/>
       <strong style="font-size: 1.1em;">Haohua Que (Collaborator)</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
@@ -113,7 +117,9 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       </div>
     </td>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/student-3.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3);">
+          <img src="./fig/student-3.png" style="width: 200px; height: auto; display: block;" />
+      </div>
       <br/>
       <strong style="font-size: 1.1em;">Haojia Gao</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
@@ -128,7 +134,9 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       </div>
     </td>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/student-4.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3);">
+          <img src="./fig/student-4.png" style="width: 200px; height: auto; display: block;" />
+      </div>
       <br/>
       <strong style="font-size: 1.1em;">Weihao Shan</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
@@ -147,11 +155,12 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
 
 ### Research Interns
 
-
 <table align="center" style="border: none; width: 100%; margin-top: 20px;">
   <tr>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/intern-4.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3);">
+          <img src="./fig/intern-1.png" style="width: 200px; height: auto; display: block;" />
+      </div>
       <br/>
       <strong style="font-size: 1.1em;">Mingkai Liu</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
@@ -166,7 +175,9 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       </div>
     </td>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/studen-2.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3);">
+          <img src="./fig/studen-2.jpg" style="width: 200px; height: auto; display: block;" />
+      </div>
       <br/>
       <strong style="font-size: 1.1em;">Haohua Que (Collaborator)</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
@@ -181,7 +192,9 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       </div>
     </td>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/studen-3.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3);">
+          <img src="./fig/studen-3.png" style="width: 200px; height: auto; display: block;" />
+      </div>
       <br/>
       <strong style="font-size: 1.1em;">Haojia Gao</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
@@ -196,7 +209,9 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       </div>
     </td>
     <td align="center" valign="top" width="25%" style="border: none; padding: 15px;">
-      <img src="./fig/studen-4.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3); margin-bottom: 18px;"/>
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 8px 20px rgba(102, 0, 153, 0.3);">
+          <img src="./fig/studen-4.png" style="width: 200px; height: auto; display: block;" />
+      </div>
       <br/>
       <strong style="font-size: 1.1em;">Weihao Shan</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
