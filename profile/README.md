@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-  <img src="./fig/hero-robot.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(102, 0, 153, 0.3); border: 2px solid #e1e4e8;" alt="SenseLab Robot Prototype" />
+  <img src="./img/hero-robot.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(102, 0, 153, 0.3); border: 2px solid #e1e4e8;" alt="SenseLab Robot Prototype" />
 
   <br/><br/>
 
@@ -71,7 +71,7 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
       Department of [Your Department], Tsinghua University<br>
       <br>
       🧠 <b>Research Lead:</b> Embodied AI, Advanced Robotics Control<br>
-      ✉️ <a href="mailto:your.email@tsinghua.edu.cn">Email Contact</a> | 🌐 <a href="#">Faculty Homepage</a>
+      ✉️ <a href="mailto:your.email@tsinghua.edu.cn">Email Contact</a> | 🌐 <a href="[#](https://web.ee.tsinghua.edu.cn/qiaofei/zh_CN/index.htm)">Faculty Homepage</a>
     </td>
   </tr>
 </table>
