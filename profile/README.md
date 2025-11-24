@@ -179,13 +179,13 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
           <img src="./fig/studen-2.jpg" style="width: 200px; height: auto; display: block;" />
       </div>
       <br/>
-      <strong style="font-size: 1.1em;">Haohua Que (Collaborator)</strong><br/>
+      <strong style="font-size: 1.1em;">Moyun Chao</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
-        Ph.D. Student<br/>
-        College of Engineering, University of Georgia<br/>
-        <span style="color: #660099; font-weight: bold;">Focus:</span> Robotic Control
+        Master Student<br/>
+        College of Computer Science and Artificial Intelligence, Southwest Minzu University<br/>
+        <span style="color: #660099; font-weight: bold;">Focus:</span> Reinforcement learning
         <div style="margin-top: 12px; font-size: 1em;">
-          <a href="mailto:haohua.que@email.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
+          <a href="mailto:1197829412@qq.com" style="text-decoration: none; color: #660099; margin-right: 10px;" title="Email">✉️ Email</a>
           <span style="color: #ccc;">|</span>
           <a href="#" target="_blank" style="text-decoration: none; color: #660099; margin-left: 10px;" title="Personal Homepage">🌐 Web</a>
         </div>
@@ -196,7 +196,7 @@ Driven by curiosity, united by code. We are a diverse group of researchers at Ts
           <img src="./fig/studen-3.png" style="width: 200px; height: auto; display: block;" />
       </div>
       <br/>
-      <strong style="font-size: 1.1em;">Haojia Gao</strong><br/>
+      <strong style="font-size: 1.1em;">Yifan Zhu</strong><br/>
       <div style="font-size: 0.9em; color: #555; line-height: 1.6; margin-top: 8px;">
         Master Student<br/>
          Tsinghua SIGS, Tsinghua University<br/>
